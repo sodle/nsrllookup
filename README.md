@@ -46,7 +46,7 @@ values of those files which did not appear in the NSRL RDS.
 ### Before you begin
 You'll need:
 
-1. [cmake](http://www.cmake.org) 3.5 or later
+1. [cmake](http://www.cmake.org) 3.12 or later
 2. A _good_ C++14 compiler.  GCC 5.0 or later, and/or Clang 3.5 and later, should do well.
 3. [boost](http://www.boost.org) 1.60 or later
 
