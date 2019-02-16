@@ -48,7 +48,7 @@ You'll need:
 
 1. [cmake](http://www.cmake.org) 3.5 or later
 2. A _good_ C++14 compiler.  GCC 5.0 or later, and/or Clang 3.5 and later, should do well.
-3. [boost](http://www.boost.org) 1.60 or later
+3. [boost](http://www.boost.org) 1.65 or later, with `program_options` and `system` libraries.
 
 ### UNIX and OS X
 
